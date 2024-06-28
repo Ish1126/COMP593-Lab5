@@ -52,6 +52,7 @@ def main():
         else:
             print("Failed to create a new PasteBin paste.")
     else:
+
         print("Failed to fetch Pokémon information. Exiting...")
 
 if __name__ == "__main__":
